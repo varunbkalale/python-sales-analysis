@@ -8,7 +8,7 @@ This project analyzes sales data using Python to uncover trends, patterns, and b
 ## 🛠 Tools Used
 - Python
 - Pandas
-- Matplotlib / Seaborn
+- Matplotlib
 
 ---
 
